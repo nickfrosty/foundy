@@ -1,0 +1,26 @@
+{
+  "name": "foundy",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+  },
+  "type": "commonjs",
+  "main": "./src/index.ts",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/nickfrosty/foundy#readme",
+  "bugs": {
+    "url": "https://github.com/nickfrosty/foundy/issues"
+  },
+  "repository": {
+    "name": "nickfrosty/foundy",
+    "type": "git",
+    "url": "https://github.com/nickfrosty/foundy"
+  },
+  "contributors": [
+    {
+      "name": "Nick Frostbutter",
+      "url": "https://github.com/nickfrosty"
+    }
+  ]
+}
